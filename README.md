@@ -12,7 +12,8 @@ You can use the website to generate badges: https://shields.io/
 
 ## 🎵 Now playing
 
-[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/album/3tklE2Fgw1hCIUstIwPBJF)
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)]
+(https://open.spotify.com/album/3tklE2Fgw1hCIUstIwPBJF)
 
 ---
 
