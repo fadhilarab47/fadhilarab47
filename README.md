@@ -10,7 +10,11 @@ You can use the website to generate badges: https://shields.io/
  -  Yah Jangan Ngarep Lebih Cuman Kanger Bukan Devs Blog !
 
 
-### Statistik
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
